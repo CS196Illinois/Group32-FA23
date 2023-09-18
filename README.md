@@ -1,7 +1,7 @@
 # Group 32
-Group Name: TEAM_NAME
+Group Name: MultimodASL
 
-[MVP Link](http://cs196.cs.illinois.edu)
+[MVP Link](https://docs.google.com/document/d/1Odkg_HaW8xWkxFdlWFanyABWQbBNVIw97vap5pxlj6o/edit?usp=sharing)
 
 Team Members: 
 - tiankai2
